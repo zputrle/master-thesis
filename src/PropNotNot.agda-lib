@@ -1,0 +1,4 @@
+name: PropNotNot
+include:
+  agda-stdlib/src
+  .
