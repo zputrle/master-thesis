@@ -14,4 +14,4 @@ The proof/code written in Agda related to the thesis can be found in `src/PropNo
 
 In order to type-check the code in `src/PropNotNotInAgda`, you also need to checkout the `agda-lib` submodule. For the initial checkout of the repository, you can use
     
-    git clone --recurse-submodules git@github.com:zputrle/propn.git
+    git clone --recurse-submodules git@github.com:zputrle/master-thesis.git
