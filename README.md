@@ -7,7 +7,7 @@ We focus on a fragment of CIC that Forster uses to develop the theory and name i
 
 ## Structure of the repository
 
-The master thesis can be found in the current directory under the name ?.
+The master thesis can be found in the current directory under the name `zputrle_masters_thesis_2023.pdf`.
 The proof/code written in Agda related to the thesis can be found in `src/PropNotNot.agda` file.
 
 ## Getting all the related materials
